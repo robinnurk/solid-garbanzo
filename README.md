@@ -1,0 +1,2 @@
+# solid-garbanzo
+suvepraktika stressikaart
